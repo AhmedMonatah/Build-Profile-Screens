@@ -12,7 +12,7 @@ class AddCardView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(AppStrings.addCardTitle,style: TextStyle(color: AppColors.salmon),),
+        title: const Text(AppStrings.addCardTitle,style: TextStyle(color: AppColors.salmon,fontWeight: FontWeight.bold),),
         centerTitle: true,
         elevation: 0,
       ),
