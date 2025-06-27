@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBnKF0lg0uF33ywtLt32lFMgcLs-329MyY',
+    apiKey: '',
     appId: '1:1080059959906:web:25c0b398d0e99728810f3b',
     messagingSenderId: '1080059959906',
     projectId: 'profilescreensapp',
