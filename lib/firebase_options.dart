@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDo4Sui_HTElvqlAOyGYQqDwxQmdysHDMI',
+    apiKey: '',
     appId: '1:1080059959906:android:ed50b3555759a6dc810f3b',
     messagingSenderId: '1080059959906',
     projectId: 'profilescreensapp',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAE5qs6ni6sBWtlhkJXdwhJ4dCct-J31E4',
+    apiKey: '',
     appId: '1:1080059959906:ios:13db4548735da16b810f3b',
     messagingSenderId: '1080059959906',
     projectId: 'profilescreensapp',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAE5qs6ni6sBWtlhkJXdwhJ4dCct-J31E4',
+    apiKey: '',
     appId: '1:1080059959906:ios:13db4548735da16b810f3b',
     messagingSenderId: '1080059959906',
     projectId: 'profilescreensapp',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBnKF0lg0uF33ywtLt32lFMgcLs-329MyY',
+    apiKey: '',
     appId: '1:1080059959906:web:abe1bb13ec6c28a9810f3b',
     messagingSenderId: '1080059959906',
     projectId: 'profilescreensapp',
